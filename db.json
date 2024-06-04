@@ -21,7 +21,7 @@
       "id": "1",
       "title": "Oppenheimer",
       "imageUrl": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/07/ss_col_3c-1.jpg",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis undeodio dignissimos eveniet recusandae quasi aperiam temporibus, pariaturconsectetur aliquid!",
+      "description": "\"Oppenheimer\" is a captivating 2023 film by Christopher Nolan. It delves into the intriguing life of J. Robert Oppenheimer, the mastermind physicist behind the first nuclear weapons, offering a glimpse into his world during a pivotal time in history.",
       "genre": "drama",
       "language": "english",
       "rating": 10,
@@ -29,7 +29,7 @@
     },
     {
       "title": "The Batman",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi nostrum laborum animi, nam sed voluptas autem odit itaque at soluta perspiciatis? Omnis, tempore in! Voluptate quae rem sunt iste illo!",
+      "description": "Bruce Wayne uncovers deep-seated corruption in Gotham City that ties back to his own family, all while facing off against the enigmatic Riddler.",
       "genre": "thriller",
       "language": "english",
       "imageUrl": "https://voices.shortpedia.com/wp-content/uploads/2022/03/the-batman-new-movie-1200x900@Youtube.jpg",
@@ -38,7 +38,7 @@
     },
     {
       "title": "Suzume",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi nostrum laborum animi, nam sed voluptas autem odit itaque at soluta perspiciatis? Omnis, tempore in! Voluptate quae rem sunt iste illo!",
+      "description": "This enchanting Japanese animated film follows the adventures of Suzume, a high school girl. Alongside a young stranger, she strives to prevent a series of disasters across Japan by sealing doors from a colossal, otherworldly worm.",
       "genre": "fantasy",
       "language": "japanese",
       "imageUrl": "https://www.hindustantimes.com/ht-img/img/2023/02/28/1600x900/Suzume_no_Tojimari_1677584858098_1677584903456_1677584903456.jpg",
@@ -46,17 +46,8 @@
       "id": "5"
     },
     {
-      "title": "Indiana Jones and the Dial of Destiny",
-      "genre": "thriller",
-      "language": "english",
-      "imageUrl": "https://www.fanthatracks.com/wp-content/uploads/2023/05/DialofDestiny_Cannes2023_cover_1.jpg",
-      "rating": 6,
-      "description": " ipsum dolor sit amet consectetur adipisicing elit. Nobis undeodio dignissimos eveniet recusandae quasi aperiam temporibus, pariaturconsectetur aliquid! ",
-      "id": "6"
-    },
-    {
       "title": "Spider-Man: Across the Spider-Verse",
-      "description": "orem ipsum dolor sit amet consectetur adipisicing elit. Nobis undeodio dignissimos eveniet recusandae quasi aperiam temporibus, pariaturconsectetur aliquid! ",
+      "description": "Miles Morales teams up with Gwen Stacy and a fresh team of Spider-People for an adventure across the Multiverse. They face a new threat and grapple with differing opinions on how to tackle it.",
       "genre": "action",
       "language": "english",
       "imageUrl": "https://images.thedirect.com/media/article_full/spider-verse-posters_VMqW9U1.jpg",
@@ -65,7 +56,7 @@
     },
     {
       "title": "Jujutsu Kaisen 0",
-      "description": "dvfffv",
+      "description": "A prequel to the Jujutsu Kaisen series centering around Yuta Okkotsu, a high school student haunted by the cursed spirit of his childhood friend. He joins Tokyo Jujutsu High School to learn to control her power.",
       "genre": "action",
       "language": "japanese",
       "imageUrl": "https://animenewsindia.com/wp-content/uploads/2022/03/88941cc6d4436f003b7f65c366db56341643063784_main.jpg",
